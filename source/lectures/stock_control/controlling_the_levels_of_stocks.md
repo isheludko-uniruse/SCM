@@ -109,7 +109,7 @@ In the figure below, the ROP level signals the procurement department in need of
 Dynamics of the stock of 1 item in one company:
 -	Initial stock of the item - 40 pcs.
 -	Average daily consumption - 5 pcs/day
-- 	Quantity of 1 contractual delivery – 30 pcs.
+- Quantity of 1 contractual delivery – 30 pcs.
 -	Delivery time after request - 3 days (calendar)
 
 **If the company operates without the warranty stock.**
@@ -268,6 +268,7 @@ The following values are important for defining the reorder point:
 * Safety stock
 * Average consumption
 * Replenishment lead time
+
 The following values are important for defining the safety stock:
 * Past consumption values (historical data) or future requirements
 * Vendor/production delivery timelines
