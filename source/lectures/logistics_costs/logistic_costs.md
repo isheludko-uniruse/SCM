@@ -36,7 +36,7 @@ Looking at the structure of the total costs of supplying a business unit with SK
 
 - Holding cost.
 
-![total inventory operational cost tic total logistic cost tlc total holding cost thc total fixed cost tfc total material cost tmc](images/EGT-total-inventory-operational-cost-tic-total.png)
+![total inventory operational cost tic total logistic cost tlc total holding cost thc total fixed cost tfc total material cost tmc](images/scm_types_of_cost_for_material_supply_eng.png)
 
 *Figure 1. Components of inventory operational costs*
 
